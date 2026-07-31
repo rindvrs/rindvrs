@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Rindert 👋
 
-<!--
-**rindvrs/rindvrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Software Developer from Costa Rica 🇨🇷
 
-Here are some ideas to get you started:
+Currently studying Computer Science Engineering at Tecnológico de Costa Rica (TEC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- PHP
+- JavaScript
+- Java
+- Node.js
+- MySQL
+- Firebase
+- Tailwind CSS
+- HTML
+- CSS
+- Git
+
+## Featured Projects
+
+🏠 Roomify
+A full-stack accommodation rental platform.
+
+🎉 Blackout Productions
+Entertainment and event management website.
+
+## Currently Learning
+
+- Software Architecture
+- Cloud Computing
+- Docker
+- React
+- TypeScript
+
+## Contact
+
+LinkedIn:
+https://www.linkedin.com/in/rindert-de-vries-gamboa-72aa2738a/
+
+Email:
+rindert2017@gmail.com
